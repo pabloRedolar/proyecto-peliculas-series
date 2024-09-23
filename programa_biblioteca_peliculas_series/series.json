@@ -1,0 +1,1028 @@
+{
+  "seriesList": [
+    {
+      "titulo": "Vigilados: Person of Interest",
+      "sinopsis": "Un agente de la CIA que resolvía las misiones más peligrosas, se ha dado a la bebida y vive como un vagabundo. El señor Finch un filántropo millonario muy peculiar, le ofrece trabajo con el fin de crear una sociedad muy beneficiosa moralmente para ambos.",
+      "puntuacion": 8.5,
+      "genero": "accion",
+      "fecha_estreno": "2011-09-22",
+      "duracion_media_capitulos_minutos": 45,
+      "cantidad_temporadas": 5,
+      "cantidad_capitulos": 103
+    },
+    {
+      "titulo": "Breaking Bad",
+      "sinopsis": "Un profesor de química de secundaria convertido en fabricante de metanfetaminas tras ser diagnosticado con cáncer terminal.",
+      "puntuacion": 9.5,
+      "genero": "drama",
+      "fecha_estreno": "2008-01-20",
+      "duracion_media_capitulos_minutos": 47,
+      "cantidad_temporadas": 5,
+      "cantidad_capitulos": 62
+    },
+    {
+      "titulo": "Game of Thrones",
+      "sinopsis": "Nobles familias luchan por el control del Trono de Hierro en los Siete Reinos de Westeros.",
+      "puntuacion": 9.3,
+      "genero": "fantasia",
+      "fecha_estreno": "2011-04-17",
+      "duracion_media_capitulos_minutos": 57,
+      "cantidad_temporadas": 8,
+      "cantidad_capitulos": 73
+    },
+    {
+      "titulo": "Stranger Things",
+      "sinopsis": "Un grupo de niños descubre secretos sobrenaturales y experimentos gubernamentales mientras buscan a su amigo desaparecido.",
+      "puntuacion": 8.7,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2016-07-15",
+      "duracion_media_capitulos_minutos": 50,
+      "cantidad_temporadas": 4,
+      "cantidad_capitulos": 34
+    },
+    {
+      "titulo": "The Crown",
+      "sinopsis": "La historia del reinado de la Reina Isabel II y los eventos políticos y personales que han moldeado la segunda mitad del siglo XX.",
+      "puntuacion": 8.6,
+      "genero": "historia",
+      "fecha_estreno": "2016-11-04",
+      "duracion_media_capitulos_minutos": 58,
+      "cantidad_temporadas": 4,
+      "cantidad_capitulos": 40
+    },
+    {
+      "titulo": "The Mandalorian",
+      "sinopsis": "Un cazarrecompensas solitario en los confines de la galaxia lucha por proteger a un niño de los restos del Imperio Galáctico.",
+      "puntuacion": 8.8,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2019-11-12",
+      "duracion_media_capitulos_minutos": 40,
+      "cantidad_temporadas": 2,
+      "cantidad_capitulos": 16
+    },
+    {
+      "titulo": "Friends",
+      "sinopsis": "Un grupo de amigos vive los altibajos de la vida en Nueva York.",
+      "puntuacion": 8.9,
+      "genero": "comedia",
+      "fecha_estreno": "1994-09-22",
+      "duracion_media_capitulos_minutos": 22,
+      "cantidad_temporadas": 10,
+      "cantidad_capitulos": 236
+    },
+    {
+      "titulo": "The Office",
+      "sinopsis": "Una mirada cómica a la vida cotidiana de los empleados de una oficina de una empresa de papel.",
+      "puntuacion": 8.8,
+      "genero": "comedia",
+      "fecha_estreno": "2005-03-24",
+      "duracion_media_capitulos_minutos": 22,
+      "cantidad_temporadas": 9,
+      "cantidad_capitulos": 201
+    },
+    {
+      "titulo": "Sherlock",
+      "sinopsis": "Una versión moderna de las aventuras del detective Sherlock Holmes y su amigo, el Dr. John Watson.",
+      "puntuacion": 9.1,
+      "genero": "misterio",
+      "fecha_estreno": "2010-07-25",
+      "duracion_media_capitulos_minutos": 90,
+      "cantidad_temporadas": 4,
+      "cantidad_capitulos": 13
+    },
+    {
+      "titulo": "Black Mirror",
+      "sinopsis": "Una serie de antología que explora un futuro distópico donde la tecnología y sus consecuencias inquietantes afectan a la humanidad.",
+      "puntuacion": 8.8,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2011-12-04",
+      "duracion_media_capitulos_minutos": 60,
+      "cantidad_temporadas": 5,
+      "cantidad_capitulos": 22
+    },
+    {
+      "titulo": "The Witcher",
+      "sinopsis": "Geralt de Rivia, un cazador de monstruos solitario, lucha por encontrar su lugar en un mundo donde las personas a menudo son más perversas que las bestias.",
+      "puntuacion": 8.2,
+      "genero": "fantasia",
+      "fecha_estreno": "2019-12-20",
+      "duracion_media_capitulos_minutos": 60,
+      "cantidad_temporadas": 2,
+      "cantidad_capitulos": 16
+    },
+    {
+      "titulo": "Peaky Blinders",
+      "sinopsis": "Una familia de gánsteres en Birmingham, Inglaterra, justo después de la Primera Guerra Mundial.",
+      "puntuacion": 8.8,
+      "genero": "drama",
+      "fecha_estreno": "2013-09-12",
+      "duracion_media_capitulos_minutos": 55,
+      "cantidad_temporadas": 6,
+      "cantidad_capitulos": 36
+    },
+    {
+      "titulo": "The Boys",
+      "sinopsis": "En un mundo donde los superhéroes abusan de sus poderes, un grupo de vigilantes intenta detenerlos.",
+      "puntuacion": 8.7,
+      "genero": "accion",
+      "fecha_estreno": "2019-07-26",
+      "duracion_media_capitulos_minutos": 60,
+      "cantidad_temporadas": 2,
+      "cantidad_capitulos": 16
+    },
+    {
+      "titulo": "Chernobyl",
+      "sinopsis": "Dramatización de la catástrofe nuclear de Chernobyl y los esfuerzos que siguieron para limpiar y entender el desastre.",
+      "puntuacion": 9.4,
+      "genero": "drama",
+      "fecha_estreno": "2019-05-06",
+      "duracion_media_capitulos_minutos": 65,
+      "cantidad_temporadas": 1,
+      "cantidad_capitulos": 5
+    },
+    {
+      "titulo": "Better Call Saul",
+      "sinopsis": "El origen y evolución de Jimmy McGill, quien se convierte en el abogado de mala fama Saul Goodman.",
+      "puntuacion": 8.7,
+      "genero": "drama",
+      "fecha_estreno": "2015-02-08",
+      "duracion_media_capitulos_minutos": 47,
+      "cantidad_temporadas": 6,
+      "cantidad_capitulos": 63
+    },
+    {
+      "titulo": "The Handmaid's Tale",
+      "sinopsis": "En una sociedad distópica, las mujeres fértiles son forzadas a convertirse en 'criadas' y a engendrar hijos para la élite.",
+      "puntuacion": 8.4,
+      "genero": "drama",
+      "fecha_estreno": "2017-04-26",
+      "duracion_media_capitulos_minutos": 55,
+      "cantidad_temporadas": 4,
+      "cantidad_capitulos": 46
+    },
+    {
+      "titulo": "Ozark",
+      "sinopsis": "Un asesor financiero arrastra a su familia de Chicago a los Ozarks de Missouri, donde debe lavar 500 millones de dólares en cinco años para apaciguar a un capo de la droga.",
+      "puntuacion": 8.4,
+      "genero": "drama",
+      "fecha_estreno": "2017-07-21",
+      "duracion_media_capitulos_minutos": 60,
+      "cantidad_temporadas": 4,
+      "cantidad_capitulos": 44
+    },
+    {
+      "titulo": "Narcos",
+      "sinopsis": "La historia real de la expansión y la caída del cartel de Medellín y su líder, Pablo Escobar.",
+      "puntuacion": 8.8,
+      "genero": "drama",
+      "fecha_estreno": "2015-08-28",
+      "duracion_media_capitulos_minutos": 49,
+      "cantidad_temporadas": 3,
+      "cantidad_capitulos": 30
+    },
+    {
+      "titulo": "Westworld",
+      "sinopsis": "Un parque de atracciones futurista para adultos, donde los anfitriones robóticos empiezan a comportarse de manera extraña.",
+      "puntuacion": 8.6,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2016-10-02",
+      "duracion_media_capitulos_minutos": 60,
+      "cantidad_temporadas": 3,
+      "cantidad_capitulos": 28
+    },
+    {
+      "titulo": "Money Heist",
+      "sinopsis": "Un grupo de criminales intenta llevar a cabo el mayor atraco de la historia en la Fábrica Nacional de Moneda y Timbre de España.",
+      "puntuacion": 8.3,
+      "genero": "crimen",
+      "fecha_estreno": "2017-05-02",
+      "duracion_media_capitulos_minutos": 50,
+      "cantidad_temporadas": 5,
+      "cantidad_capitulos": 41
+    },
+    {
+      "titulo": "Dark",
+      "sinopsis": "La desaparición de un niño desata una serie de eventos que revelan los secretos oscuros de una pequeña ciudad alemana y su conexión con un evento sobrenatural.",
+      "puntuacion": 8.8,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2017-12-01",
+      "duracion_media_capitulos_minutos": 60,
+      "cantidad_temporadas": 3,
+      "cantidad_capitulos": 26
+    },
+    {
+      "titulo": "Lucifer",
+      "sinopsis": "El diablo abandona el infierno y se muda a Los Ángeles, donde abre un club nocturno y se convierte en consultor de la policía.",
+      "puntuacion": 8.1,
+      "genero": "fantasia",
+      "fecha_estreno": "2016-01-25",
+      "duracion_media_capitulos_minutos": 42,
+      "cantidad_temporadas": 6,
+      "cantidad_capitulos": 93
+    },
+    {
+      "titulo": "Fargo",
+      "sinopsis": "Una serie de antología basada en la película de los hermanos Coen, que cuenta historias de crimen en Minnesota.",
+      "puntuacion": 8.9,
+      "genero": "crimen",
+      "fecha_estreno": "2014-04-15",
+      "duracion_media_capitulos_minutos": 50,
+      "cantidad_temporadas": 4,
+      "cantidad_capitulos": 41
+    },
+    {
+      "titulo": "House of Cards",
+      "sinopsis": "Un político despiadado y su igualmente ambiciosa esposa manejan y manipulan a todos en Washington D.C. para llegar a la cima del poder.",
+      "puntuacion": 8.7,
+      "genero": "drama",
+      "fecha_estreno": "2013-02-01",
+      "duracion_media_capitulos_minutos": 50,
+      "cantidad_temporadas": 6,
+      "cantidad_capitulos": 73
+    },
+    {
+      "titulo": "The Umbrella Academy",
+      "sinopsis": "Una familia disfuncional de hermanos adoptados con superpoderes se reúne para resolver el misterio de la muerte de su padre y la amenaza del apocalipsis.",
+      "puntuacion": 8,
+      "genero": "accion",
+      "fecha_estreno": "2019-02-15",
+      "duracion_media_capitulos_minutos": 55,
+      "cantidad_temporadas": 2,
+      "cantidad_capitulos": 20
+    },
+    {
+      "titulo": "Succession",
+      "sinopsis": "Una mirada al intrincado mundo de una de las familias más poderosas y disfuncionales del mundo de los medios de comunicación.",
+      "puntuacion": 8.6,
+      "genero": "drama",
+      "fecha_estreno": "2018-06-03",
+      "duracion_media_capitulos_minutos": 60,
+      "cantidad_temporadas": 3,
+      "cantidad_capitulos": 29
+    },
+    {
+      "titulo": "The Queen's Gambit",
+      "sinopsis": "La vida de una joven prodigio del ajedrez que lucha con la adicción mientras asciende en el mundo competitivo del ajedrez.",
+      "puntuacion": 8.6,
+      "genero": "drama",
+      "fecha_estreno": "2020-10-23",
+      "duracion_media_capitulos_minutos": 55,
+      "cantidad_temporadas": 1,
+      "cantidad_capitulos": 7
+    },
+    {
+      "titulo": "The Expanse",
+      "sinopsis": "En un futuro donde la humanidad ha colonizado el sistema solar, una conspiración amenaza la frágil paz entre la Tierra, Marte y el Cinturón de Asteroides.",
+      "puntuacion": 8.5,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2015-12-14",
+      "duracion_media_capitulos_minutos": 45,
+      "cantidad_temporadas": 6,
+      "cantidad_capitulos": 62
+    },
+    {
+      "titulo": "The Haunting of Hill House",
+      "sinopsis": "Una familia que creció en lo que se convertiría en la casa embrujada más famosa del país, debe enfrentarse a los fantasmas de su pasado.",
+      "puntuacion": 8.7,
+      "genero": "terror",
+      "fecha_estreno": "2018-10-12",
+      "duracion_media_capitulos_minutos": 50,
+      "cantidad_temporadas": 1,
+      "cantidad_capitulos": 10
+    },
+    {
+      "titulo": "The Marvelous Mrs. Maisel",
+      "sinopsis": "En la década de 1950, una ama de casa descubre su talento para la comedia y persigue una carrera en el stand-up.",
+      "puntuacion": 8.7,
+      "genero": "comedia",
+      "fecha_estreno": "2017-03-17",
+      "duracion_media_capitulos_minutos": 55,
+      "cantidad_temporadas": 4,
+      "cantidad_capitulos": 34
+    },
+    {
+      "titulo": "Hannibal",
+      "sinopsis": "Las primeras relaciones entre el renombrado psiquiatra Hannibal Lecter y un joven perfilador del FBI, Will Graham.",
+      "puntuacion": 8.5,
+      "genero": "terror",
+      "fecha_estreno": "2013-04-04",
+      "duracion_media_capitulos_minutos": 43,
+      "cantidad_temporadas": 3,
+      "cantidad_capitulos": 39
+    },
+    {
+      "titulo": "Mindhunter",
+      "sinopsis": "En los años 70, dos agentes del FBI desarrollan técnicas de perfilación criminal entrevistando a asesinos en serie encarcelados.",
+      "puntuacion": 8.6,
+      "genero": "drama",
+      "fecha_estreno": "2017-10-13",
+      "duracion_media_capitulos_minutos": 50,
+      "cantidad_temporadas": 2,
+      "cantidad_capitulos": 19
+    },
+    {
+      "titulo": "BoJack Horseman",
+      "sinopsis": "Un caballo que fue una estrella de televisión en los años 90, ahora lucha con la vida, la bebida y sus relaciones en Hollywood.",
+      "puntuacion": 8.7,
+      "genero": "animacion",
+      "fecha_estreno": "2014-08-22",
+      "duracion_media_capitulos_minutos": 25,
+      "cantidad_temporadas": 6,
+      "cantidad_capitulos": 77
+    },
+    {
+      "titulo": "Mr. Robot",
+      "sinopsis": "Un ingeniero de seguridad cibernética y hacker, lucha con su identidad y la amenaza global que ha ayudado a desatar.",
+      "puntuacion": 8.5,
+      "genero": "terror",
+      "fecha_estreno": "2015-06-24",
+      "duracion_media_capitulos_minutos": 45,
+      "cantidad_temporadas": 4,
+      "cantidad_capitulos": 45
+    },
+    {
+      "titulo": "The Walking Dead",
+      "sinopsis": "Un grupo de sobrevivientes lucha por mantenerse con vida en un mundo post-apocalíptico invadido por zombis.",
+      "puntuacion": 8.2,
+      "genero": "terror",
+      "fecha_estreno": "2010-10-31",
+      "duracion_media_capitulos_minutos": 44,
+      "cantidad_temporadas": 10,
+      "cantidad_capitulos": 153
+    },
+    {
+      "titulo": "True Detective",
+      "sinopsis": "Cada temporada sigue una investigación diferente llevada a cabo por diferentes detectives en distintos periodos de tiempo.",
+      "puntuacion": 9,
+      "genero": "crimen",
+      "fecha_estreno": "2014-01-12",
+      "duracion_media_capitulos_minutos": 55,
+      "cantidad_temporadas": 3,
+      "cantidad_capitulos": 24
+    },
+    {
+      "titulo": "The Good Place",
+      "sinopsis": "Una mujer común y corriente llega al 'buen lugar' por error y trata de convertirse en una mejor persona para no ser descubierta.",
+      "puntuacion": 8.2,
+      "genero": "comedia",
+      "fecha_estreno": "2016-09-19",
+      "duracion_media_capitulos_minutos": 22,
+      "cantidad_temporadas": 4,
+      "cantidad_capitulos": 53
+    },
+    {
+      "titulo": "Brooklyn Nine-Nine",
+      "sinopsis": "Un grupo de detectives excéntricos en una comisaría de policía de Brooklyn navega por la vida y el crimen.",
+      "puntuacion": 8.4,
+      "genero": "comedia",
+      "fecha_estreno": "2013-09-17",
+      "duracion_media_capitulos_minutos": 22,
+      "cantidad_temporadas": 8,
+      "cantidad_capitulos": 153
+    },
+    {
+      "titulo": "Fleabag",
+      "sinopsis": "Una mujer joven y su lucha por lidiar con la vida moderna en Londres mientras enfrenta tragedias personales.",
+      "puntuacion": 8.7,
+      "genero": "comedia",
+      "fecha_estreno": "2016-07-21",
+      "duracion_media_capitulos_minutos": 27,
+      "cantidad_temporadas": 2,
+      "cantidad_capitulos": 12
+    },
+    {
+      "titulo": "The Big Bang Theory",
+      "sinopsis": "Un grupo de amigos nerds navega por la vida y las relaciones personales en Pasadena, California.",
+      "puntuacion": 8.1,
+      "genero": "comedia",
+      "fecha_estreno": "2007-09-24",
+      "duracion_media_capitulos_minutos": 22,
+      "cantidad_temporadas": 12,
+      "cantidad_capitulos": 279
+    },
+    {
+      "titulo": "Dexter",
+      "sinopsis": "Un forense especializado en análisis de sangre para el Departamento de Policía de Miami lleva una doble vida como asesino en serie.",
+      "puntuacion": 8.6,
+      "genero": "terror",
+      "fecha_estreno": "2006-10-01",
+      "duracion_media_capitulos_minutos": 50,
+      "cantidad_temporadas": 8,
+      "cantidad_capitulos": 96
+    },
+    {
+      "titulo": "Schitt's Creek",
+      "sinopsis": "Una familia adinerada pierde su fortuna y se ve obligada a vivir en una pequeña y peculiar ciudad que una vez compraron como una broma.",
+      "puntuacion": 8.5,
+      "genero": "comedia",
+      "fecha_estreno": "2015-01-13",
+      "duracion_media_capitulos_minutos": 22,
+      "cantidad_temporadas": 6,
+      "cantidad_capitulos": 80
+    },
+    {
+      "titulo": "Homeland",
+      "sinopsis": "Una agente de la CIA cree que un marine estadounidense rescatado ha sido convertido por el enemigo y planea llevar a cabo un ataque terrorista en suelo estadounidense.",
+      "puntuacion": 8.3,
+      "genero": "drama",
+      "fecha_estreno": "2011-10-02",
+      "duracion_media_capitulos_minutos": 55,
+      "cantidad_temporadas": 8,
+      "cantidad_capitulos": 96
+    },
+    {
+      "titulo": "This Is Us",
+      "sinopsis": "Una mirada emotiva y generacional a la vida de una familia en diferentes períodos de tiempo.",
+      "puntuacion": 8.7,
+      "genero": "drama",
+      "fecha_estreno": "2016-09-20",
+      "duracion_media_capitulos_minutos": 45,
+      "cantidad_temporadas": 6,
+      "cantidad_capitulos": 106
+    },
+    {
+      "titulo": "The West Wing",
+      "sinopsis": "Dramatización del trabajo diario del Presidente de los Estados Unidos y su equipo más cercano.",
+      "puntuacion": 8.8,
+      "genero": "drama",
+      "fecha_estreno": "1999-09-22",
+      "duracion_media_capitulos_minutos": 42,
+      "cantidad_temporadas": 7,
+      "cantidad_capitulos": 154
+    },
+    {
+      "titulo": "Twin Peaks",
+      "sinopsis": "Un agente del FBI investiga el asesinato de una joven en una pequeña y extraña ciudad del noroeste del Pacífico.",
+      "puntuacion": 8.8,
+      "genero": "misterio",
+      "fecha_estreno": "1990-04-08",
+      "duracion_media_capitulos_minutos": 47,
+      "cantidad_temporadas": 3,
+      "cantidad_capitulos": 48
+    },
+    {
+      "titulo": "Big Little Lies",
+      "sinopsis": "Las vidas de tres madres de niños pequeños en una ciudad costera se desenredan hasta el punto de asesinato.",
+      "puntuacion": 8.5,
+      "genero": "drama",
+      "fecha_estreno": "2017-02-19",
+      "duracion_media_capitulos_minutos": 50,
+      "cantidad_temporadas": 2,
+      "cantidad_capitulos": 14
+    },
+    {
+      "titulo": "Pose",
+      "sinopsis": "Explora la yuxtaposición de varios segmentos de la vida y la sociedad en Nueva York: la escena de los salones de baile de la ciudad y el auge de la era Trump.",
+      "puntuacion": 8.6,
+      "genero": "drama",
+      "fecha_estreno": "2018-06-03",
+      "duracion_media_capitulos_minutos": 45,
+      "cantidad_temporadas": 3,
+      "cantidad_capitulos": 26
+    },
+    {
+      "titulo": "Mad Men",
+      "sinopsis": "Sigue la vida personal y profesional de Don Draper y otros en una agencia de publicidad de Nueva York en la década de 1960.",
+      "puntuacion": 8.6,
+      "genero": "drama",
+      "fecha_estreno": "2007-07-19",
+      "duracion_media_capitulos_minutos": 47,
+      "cantidad_temporadas": 7,
+      "cantidad_capitulos": 92
+    },
+    {
+      "titulo": "Killing Eve",
+      "sinopsis": "Una agente de inteligencia obsesionada con un asesino y la asesina que se obsesiona con ella.",
+      "puntuacion": 8.3,
+      "genero": "terror",
+      "fecha_estreno": "2018-04-08",
+      "duracion_media_capitulos_minutos": 43,
+      "cantidad_temporadas": 3,
+      "cantidad_capitulos": 24
+    },
+    {
+      "titulo": "Parks and Recreation",
+      "sinopsis": "Las vidas y el trabajo de los empleados del departamento de parques y recreación de la ciudad ficticia de Pawnee, Indiana.",
+      "puntuacion": 8.6,
+      "genero": "comedia",
+      "fecha_estreno": "2009-04-09",
+      "duracion_media_capitulos_minutos": 22,
+      "cantidad_temporadas": 7,
+      "cantidad_capitulos": 125
+    },
+    {
+      "titulo": "House",
+      "sinopsis": "Un médico misántropo y genio que lidera un equipo de diagnostico en un hospital, resolviendo casos médicos complejos.",
+      "puntuacion": 8.7,
+      "genero": "drama",
+      "fecha_estreno": "2004-11-16",
+      "duracion_media_capitulos_minutos": 44,
+      "cantidad_temporadas": 8,
+      "cantidad_capitulos": 177
+    },
+    {
+      "titulo": "Vikings",
+      "sinopsis": "Sigue las aventuras del legendario héroe vikingo Ragnar Lothbrok mientras asciende para convertirse en Rey de las tribus vikingas.",
+      "puntuacion": 8.5,
+      "genero": "accion",
+      "fecha_estreno": "2013-03-03",
+      "duracion_media_capitulos_minutos": 44,
+      "cantidad_temporadas": 6,
+      "cantidad_capitulos": 89
+    },
+    {
+      "titulo": "The Sopranos",
+      "sinopsis": "Un jefe de la mafia de Nueva Jersey lucha por mantener su poder y su salud mental en medio de tensiones familiares y conflictos con otros gánsteres.",
+      "puntuacion": 9.2,
+      "genero": "drama",
+      "fecha_estreno": "1999-01-10",
+      "duracion_media_capitulos_minutos": 55,
+      "cantidad_temporadas": 6,
+      "cantidad_capitulos": 86
+    },
+    {
+      "titulo": "The Wire",
+      "sinopsis": "Explora las instituciones de Baltimore y sus relaciones con el crimen organizado mientras sigue la vida de policías, políticos y delincuentes.",
+      "puntuacion": 9.3,
+      "genero": "drama",
+      "fecha_estreno": "2002-06-02",
+      "duracion_media_capitulos_minutos": 60,
+      "cantidad_temporadas": 5,
+      "cantidad_capitulos": 60
+    },
+    {
+      "titulo": "The Simpsons",
+      "sinopsis": "Una familia disfuncional en una ciudad ficticia de Springfield, narrando las aventuras y desventuras de sus miembros.",
+      "puntuacion": 8.6,
+      "genero": "animacion",
+      "fecha_estreno": "1989-12-17",
+      "duracion_media_capitulos_minutos": 22,
+      "cantidad_temporadas": 33,
+      "cantidad_capitulos": 706
+    },
+    {
+      "titulo": "Doctor Who",
+      "sinopsis": "Un Señor del Tiempo y sus compañeros viajan a través del tiempo y el espacio en una nave espacial llamada TARDIS.",
+      "puntuacion": 8.6,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "1963-11-23",
+      "duracion_media_capitulos_minutos": 45,
+      "cantidad_temporadas": 12,
+      "cantidad_capitulos": 861
+    },
+    {
+      "titulo": "Avatar: The Last Airbender",
+      "sinopsis": "Un niño con el poder de manipular los elementos debe detener la guerra entre las naciones mientras aprende a dominar sus habilidades.",
+      "puntuacion": 9.2,
+      "genero": "animacion",
+      "fecha_estreno": "2005-02-21",
+      "duracion_media_capitulos_minutos": 22,
+      "cantidad_temporadas": 3,
+      "cantidad_capitulos": 61
+    },
+    {
+      "titulo": "The 100",
+      "sinopsis": "En un futuro post-apocalíptico, un grupo de jóvenes delincuentes es enviado de regreso a la Tierra desde una estación espacial para determinar si es habitable.",
+      "puntuacion": 8.9,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2014-06-19",
+      "duracion_media_capitulos_minutos": 42,
+      "cantidad_temporadas": 5,
+      "cantidad_capitulos": 100
+    },
+    {
+      "titulo": "Watchmen",
+      "sinopsis": "Una continuación de la novela gráfica original, donde los vigilantes enmascarados deben enfrentar una nueva amenaza en un mundo distópico.",
+      "puntuacion": 8.7,
+      "genero": "drama",
+      "fecha_estreno": "2019-10-18",
+      "duracion_media_capitulos_minutos": 60,
+      "cantidad_temporadas": 3,
+      "cantidad_capitulos": 9
+    },
+    {
+      "titulo": "The Leftovers",
+      "sinopsis": "Después de la desaparición repentina del 2% de la población mundial, aquellos que quedan luchan por encontrar significado y seguir adelante en un mundo alterado.",
+      "puntuacion": 9,
+      "genero": "drama",
+      "fecha_estreno": "2014-06-23",
+      "duracion_media_capitulos_minutos": 60,
+      "cantidad_temporadas": 5,
+      "cantidad_capitulos": 28
+    },
+    {
+      "titulo": "The Blacklist",
+      "sinopsis": "Un ex agente del gobierno se entrega al FBI y ofrece ayudar a atrapar a criminales, pero solo si trabaja con una agente novata con quien parece tener una conexión personal.",
+      "puntuacion": 8.8,
+      "genero": "drama",
+      "fecha_estreno": "2013-10-28",
+      "duracion_media_capitulos_minutos": 45,
+      "cantidad_temporadas": 4,
+      "cantidad_capitulos": 89
+    },
+    {
+      "titulo": "Orphan Black",
+      "sinopsis": "Una joven huérfana descubre que es un clon y se ve arrastrada a un peligroso mundo de conspiraciones, clones y biotecnología.",
+      "puntuacion": 8.6,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2015-04-10",
+      "duracion_media_capitulos_minutos": 45,
+      "cantidad_temporadas": 6,
+      "cantidad_capitulos": 50
+    },
+    {
+      "titulo": "The Americans",
+      "sinopsis": "Dos espías soviéticos disfrazados de una pareja estadounidense en la década de 1980 enfrentan dilemas morales y amenazas a su identidad mientras realizan misiones secretas.",
+      "puntuacion": 9,
+      "genero": "drama",
+      "fecha_estreno": "2013-01-10",
+      "duracion_media_capitulos_minutos": 45,
+      "cantidad_temporadas": 6,
+      "cantidad_capitulos": 75
+    },
+    {
+      "titulo": "The Terror",
+      "sinopsis": "Basada en hechos reales, esta serie explora los peligros mortales que enfrenta la tripulación de dos barcos de la Marina Real británica mientras intentan encontrar el Paso del Noroeste en el Ártico.",
+      "puntuacion": 8.7,
+      "genero": "drama",
+      "fecha_estreno": "2018-03-22",
+      "duracion_media_capitulos_minutos": 45,
+      "cantidad_temporadas": 4,
+      "cantidad_capitulos": 40
+    },
+    {
+      "titulo": "The OA",
+      "sinopsis": "Una joven ciega desaparecida regresa a casa después de siete años con la vista restaurada y relata una historia increíble sobre su experiencia en otro mundo.",
+      "puntuacion": 8.8,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2016-07-15",
+      "duracion_media_capitulos_minutos": 60,
+      "cantidad_temporadas": 4,
+      "cantidad_capitulos": 16
+    },
+    {
+      "titulo": "Juego de Tronos",
+      "sinopsis": "En el continente de Poniente, varias familias nobles luchan por el control del Trono de Hierro mientras se enfrentan a criaturas sobrenaturales y peligrosos enemigos.",
+      "puntuacion": 9.3,
+      "genero": "fantasia",
+      "fecha_estreno": "2011-04-17",
+      "duracion_media_capitulos_minutos": 55,
+      "cantidad_temporadas": 7,
+      "cantidad_capitulos": 73
+    },
+    {
+      "titulo": "Star Trek: Discovery",
+      "sinopsis": "En el siglo XXIII, la tripulación de la nave estelar USS Discovery se embarca en una misión para descubrir nuevos mundos y formas de vida, mientras se enfrentan a conflictos internos y externos.",
+      "puntuacion": 8.7,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2017-09-25",
+      "duracion_media_capitulos_minutos": 50,
+      "cantidad_temporadas": 2,
+      "cantidad_capitulos": 29
+    },
+    {
+      "titulo": "Dark Matter",
+      "sinopsis": "Después de despertar a bordo de una nave espacial sin memoria de quiénes son ni cómo llegaron allí, la tripulación de la Raza intenta descubrir su pasado mientras lidian con conspiraciones y peligros galácticos.",
+      "puntuacion": 8.9,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2015-06-19",
+      "duracion_media_capitulos_minutos": 42,
+      "cantidad_temporadas": 5,
+      "cantidad_capitulos": 65
+    },
+    {
+      "titulo": "Arrow",
+      "sinopsis": "Después de naufragar en una isla durante cinco años, el playboy multimillonario Oliver Queen regresa a casa con una misión secreta: luchar contra el crimen y corrupción como el vigilante encapuchado Arrow.",
+      "puntuacion": 8.1,
+      "genero": "drama",
+      "fecha_estreno": "2012-10-10",
+      "duracion_media_capitulos_minutos": 42,
+      "cantidad_temporadas": 6,
+      "cantidad_capitulos": 170
+    },
+    {
+      "titulo": "Jessica Jones",
+      "sinopsis": "Después de dejar atrás su carrera de superhéroe, la investigadora privada Jessica Jones intenta reconstruir su vida y su agencia mientras lidia con las secuelas de su traumático pasado.",
+      "puntuacion": 8.7,
+      "genero": "drama",
+      "fecha_estreno": "2015-11-20",
+      "duracion_media_capitulos_minutos": 50,
+      "cantidad_temporadas": 5,
+      "cantidad_capitulos": 39
+    },
+    {
+      "titulo": "Ray Donovan",
+      "sinopsis": "Ray Donovan, un especialista en arreglar los problemas de las élites de Los Ángeles, lucha por equilibrar su vida profesional y personal mientras enfrenta a su turbulenta familia y su oscuro pasado.",
+      "puntuacion": 8.6,
+      "genero": "drama",
+      "fecha_estreno": "2013-07-11",
+      "duracion_media_capitulos_minutos": 55,
+      "cantidad_temporadas": 5,
+      "cantidad_capitulos": 82
+    },
+    {
+      "titulo": "The Man in the High Castle",
+      "sinopsis": "Basada en la novela de Philip K. Dick, esta serie imagina una realidad alternativa en la que los Aliados perdieron la Segunda Guerra Mundial y los Estados Unidos están divididos entre el control nazi y japonés.",
+      "puntuacion": 8.5,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2015-10-07",
+      "duracion_media_capitulos_minutos": 60,
+      "cantidad_temporadas": 4,
+      "cantidad_capitulos": 40
+    },
+    {
+      "titulo": "Gotham",
+      "sinopsis": "Esta serie precuela sigue al joven detective James Gordon y al ascenso de los villanos más icónicos de Gotham City, incluido el legendario Joker, antes de la llegada del Batman.",
+      "puntuacion": 8.5,
+      "genero": "drama",
+      "fecha_estreno": "2014-09-22",
+      "duracion_media_capitulos_minutos": 45,
+      "cantidad_temporadas": 6,
+      "cantidad_capitulos": 100
+    },
+    {
+      "titulo": "Legion",
+      "sinopsis": "David Haller, diagnosticado con esquizofrenia, descubre que las voces y visiones que experimenta pueden ser el resultado de habilidades extraordinarias. Con la ayuda de un grupo de personas inusuales, intenta controlar sus poderes.",
+      "puntuacion": 8.4,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2017-02-19",
+      "duracion_media_capitulos_minutos": 60,
+      "cantidad_temporadas": 3,
+      "cantidad_capitulos": 27
+    },
+    {
+      "titulo": "The Defenders",
+      "sinopsis": "Cuatro superhéroes de Nueva York, Daredevil, Jessica Jones, Luke Cage y Iron Fist, unen fuerzas para combatir una amenaza común mientras luchan con sus propios demonios personales.",
+      "puntuacion": 8.6,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2017-08-18",
+      "duracion_media_capitulos_minutos": 50,
+      "cantidad_temporadas": 3,
+      "cantidad_capitulos": 24
+    },
+    {
+      "titulo": "The Bridge",
+      "sinopsis": "Cuando un cuerpo aparece en el puente que conecta a Dinamarca y Suecia, los detectives de ambos países deben trabajar juntos para resolver el caso y enfrentarse a un siniestro asesino en serie.",
+      "puntuacion": 8.5,
+      "genero": "drama",
+      "fecha_estreno": "2013-07-17",
+      "duracion_media_capitulos_minutos": 50,
+      "cantidad_temporadas": 5,
+      "cantidad_capitulos": 40
+    },
+    {
+      "titulo": "Marvel's Agents of S.H.I.E.L.D.",
+      "sinopsis": "Después de los eventos de la película 'The Avengers', el agente Phil Coulson reúne a un equipo de agentes altamente capacitados para enfrentarse a amenazas sobrenaturales y supervillanos en nombre de la organización secreta S.H.I.E.L.D.",
+      "puntuacion": 8.7,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2013-09-24",
+      "duracion_media_capitulos_minutos": 45,
+      "cantidad_temporadas": 6,
+      "cantidad_capitulos": 136
+    },
+    {
+      "titulo": "The Flash",
+      "sinopsis": "Después de ser alcanzado por un rayo y bañado en productos químicos, el científico forense Barry Allen adquiere la habilidad de correr a una velocidad extraordinaria y se convierte en el superhéroe mas veloz del mundo.",
+      "puntuacion": 8.6,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2014-10-07",
+      "duracion_media_capitulos_minutos": 45,
+      "cantidad_temporadas": 5,
+      "cantidad_capitulos": 133
+    },
+    {
+      "titulo": "Daredevil",
+      "sinopsis": "Matt Murdock, un abogado ciego de día, lucha contra la injusticia como el vigilante Daredevil de noche en las calles de Hell's Kitchen, Nueva York.",
+      "puntuacion": 8.4,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2015-04-10",
+      "duracion_media_capitulos_minutos": 55,
+      "cantidad_temporadas": 6,
+      "cantidad_capitulos": 65
+    },
+    {
+      "titulo": "The Affair",
+      "sinopsis": "Esta serie explora las emociones y las consecuencias de una aventura extramatrimonial entre dos personas que provienen de mundos muy diferentes y cómo afecta a sus matrimonios y a sus vidas en general.",
+      "puntuacion": 8.6,
+      "genero": "drama",
+      "fecha_estreno": "2014-10-12",
+      "duracion_media_capitulos_minutos": 55,
+      "cantidad_temporadas": 7,
+      "cantidad_capitulos": 53
+    },
+    {
+      "titulo": "The Sinner",
+      "sinopsis": "Cuando un joven madre aparentemente comete un acto de violencia inexplicable en público y no tiene idea de por qué lo hizo, una detective perspicaz comienza a desentrañar los oscuros secretos de su pasado y los motivos detrás de su comportamiento aparentemente inexplicable.",
+      "puntuacion": 8.4,
+      "genero": "drama",
+      "fecha_estreno": "2017-07-11",
+      "duracion_media_capitulos_minutos": 45,
+      "cantidad_temporadas": 2,
+      "cantidad_capitulos": 16
+    },
+    {
+      "titulo": "The Mentalist",
+      "sinopsis": "Patrick Jane, un famoso médium televisivo, cambia su carrera después de que un asesino en serie conocido como Red John asesina brutalmente a su esposa e hija. En lugar de continuar con su vida de celebridad, utiliza sus habilidades para resolver crímenes como consultor independiente trabajando con el CBI (California Bureau of Investigation). Jane utiliza su agudo sentido de la observación y sus habilidades de deducción para ayudar a resolver los casos mientras sigue persiguiendo a Red John.",
+      "puntuacion": 8.1,
+      "genero": "drama",
+      "fecha_estreno": "2008-09-23",
+      "duracion_media_capitulos_minutos": 42,
+      "cantidad_temporadas": 7,
+      "cantidad_capitulos": 151
+    },
+    {
+      "titulo": "How I Met Your Mother",
+      "sinopsis": "La serie sigue la vida del arquitecto Ted Mosby y sus amigos en Nueva York mientras Ted relata a sus hijos cómo conoció a su madre. A lo largo de nueve temporadas, la serie explora las complicaciones de la vida adulta, las relaciones románticas, la amistad y el proceso de encontrar el amor verdadero.",
+      "puntuacion": 8.3,
+      "genero": "comedia",
+      "fecha_estreno": "2005-09-19",
+      "duracion_media_capitulos_minutos": 22,
+      "cantidad_temporadas": 9,
+      "cantidad_capitulos": 208
+    },
+    {
+      "titulo": "Friends with Benefits",
+      "sinopsis": "La serie sigue las vidas entrelazadas de un grupo de amigos en Chicago mientras navegan por las complicaciones de las relaciones amorosas y la amistad. A lo largo de doce temporadas, la serie explora temas como el amor, la lealtad y la búsqueda de la felicidad.",
+      "puntuacion": 8.7,
+      "genero": "comedia",
+      "fecha_estreno": "2011-04-17",
+      "duracion_media_capitulos_minutos": 25,
+      "cantidad_temporadas": 12,
+      "cantidad_capitulos": 97
+    },
+    {
+      "titulo": "Scrubs",
+      "sinopsis": "La serie sigue las vidas de los médicos y empleados de un hospital ficticio mientras enfrentan los desafíos de la medicina y la vida personal. A lo largo de nueve temporadas, la serie combina comedia y drama para explorar temas como la amistad, el sacrificio y la vocación.",
+      "puntuacion": 8.3,
+      "genero": "comedia",
+      "fecha_estreno": "2001-10-02",
+      "duracion_media_capitulos_minutos": 22,
+      "cantidad_temporadas": 9,
+      "cantidad_capitulos": 182
+    },
+    {
+      "titulo": "Two and a Half Men",
+      "sinopsis": "La serie sigue las vidas de un hombre soltero, su hermano recién divorciado y su sobrino adolescente mientras conviven en Malibú. A lo largo de doce temporadas, la serie explora temas como la familia, el amor y las relaciones disfuncionales.",
+      "puntuacion": 7.1,
+      "genero": "comedia",
+      "fecha_estreno": "2003-09-22",
+      "duracion_media_capitulos_minutos": 22,
+      "cantidad_temporadas": 12,
+      "cantidad_capitulos": 262
+    },
+    {
+      "titulo": "Modern Family",
+      "sinopsis": "La serie sigue la vida de una gran familia extendida mientras lidian con las complejidades de las relaciones familiares y la crianza de los hijos. A lo largo de once temporadas, la serie explora temas como la diversidad, el amor y el crecimiento personal.",
+      "puntuacion": 8.4,
+      "genero": "comedia",
+      "fecha_estreno": "2009-09-23",
+      "duracion_media_capitulos_minutos": 22,
+      "cantidad_temporadas": 11,
+      "cantidad_capitulos": 250
+    },
+    {
+      "titulo": "That '70s Show",
+      "sinopsis": "La serie sigue las vidas de un grupo de adolescentes en la década de 1970 mientras enfrentan los desafíos de la adolescencia y la transición a la adultez. A lo largo de ocho temporadas, la serie explora temas como la amistad, el amor y la cultura pop de la época.",
+      "puntuacion": 8.1,
+      "genero": "comedia",
+      "fecha_estreno": "1998-08-23",
+      "duracion_media_capitulos_minutos": 22,
+      "cantidad_temporadas": 8,
+      "cantidad_capitulos": 200
+    },
+    {
+      "titulo": "The IT Crowd",
+      "sinopsis": "La serie sigue las vidas de los empleados del departamento de informática de una empresa mientras lidian con situaciones absurdas y cómicas. A lo largo de cinco temporadas, la serie explora temas como la tecnología, la amistad y la incompetencia en el trabajo.",
+      "puntuacion": 8.5,
+      "genero": "comedia",
+      "fecha_estreno": "2006-02-03",
+      "duracion_media_capitulos_minutos": 25,
+      "cantidad_temporadas": 5,
+      "cantidad_capitulos": 25
+    },
+    {
+      "titulo": "How I Met Your Father",
+      "sinopsis": "Esta serie es un spin-off de 'How I Met Your Mother' y sigue a una mujer mientras relata a sus hijos cómo conoció a su padre. A lo largo de dos temporadas, la serie explora las aventuras y desafíos de la vida adulta en la ciudad de Nueva York.",
+      "puntuacion": 7.8,
+      "genero": "comedia",
+      "fecha_estreno": "2023-09-15",
+      "duracion_media_capitulos_minutos": 25,
+      "cantidad_temporadas": 2,
+      "cantidad_capitulos": 20
+    },
+    {
+      "titulo": "Brothers & Sisters",
+      "sinopsis": "La serie sigue las vidas de los hermanos Walker, una familia unida pero disfuncional, mientras enfrentan desafíos personales y profesionales. A lo largo de cinco temporadas, la serie explora temas como la familia, el amor y la lealtad.",
+      "puntuacion": 7.5,
+      "genero": "drama",
+      "fecha_estreno": "2006-09-24",
+      "duracion_media_capitulos_minutos": 45,
+      "cantidad_temporadas": 5,
+      "cantidad_capitulos": 109
+    },
+    {
+      "titulo": "New Girl",
+      "sinopsis": "La serie sigue a Jess, una mujer excéntrica que se muda a un apartamento con tres hombres solteros después de una ruptura. A lo largo de siete temporadas, la serie explora la amistad, el amor y el crecimiento personal.",
+      "puntuacion": 7.7,
+      "genero": "comedia",
+      "fecha_estreno": "2011-09-20",
+      "duracion_media_capitulos_minutos": 22,
+      "cantidad_temporadas": 7,
+      "cantidad_capitulos": 146
+    },
+    {
+      "titulo": "Arrested Development",
+      "sinopsis": "La serie sigue las desventuras de la disfuncional familia Bluth mientras intentan mantener su estatus social y resolver sus problemas financieros. A lo largo de cinco temporadas, la serie combina comedia y sátira para explorar temas como la familia y la ambición.",
+      "puntuacion": 8.7,
+      "genero": "comedia",
+      "fecha_estreno": "2003-11-02",
+      "duracion_media_capitulos_minutos": 22,
+      "cantidad_temporadas": 5,
+      "cantidad_capitulos": 84
+    },
+    {
+      "titulo": "Community",
+      "sinopsis": "La serie sigue las vidas de un grupo de estudiantes en una comunidad universitaria mientras forman amistades y enfrentan situaciones absurdas. A lo largo de seis temporadas, la serie explora temas como la amistad, el crecimiento personal y la diversidad.",
+      "puntuacion": 8.5,
+      "genero": "comedia",
+      "fecha_estreno": "2009-09-17",
+      "duracion_media_capitulos_minutos": 22,
+      "cantidad_temporadas": 6,
+      "cantidad_capitulos": 110
+    },
+    {
+      "titulo": "Malcolm in the Middle",
+      "sinopsis": "La serie sigue las vidas de una familia disfuncional mientras lidian con las travesuras y desafíos de sus hijos. A lo largo de siete temporadas, la serie combina comedia y humor negro para explorar temas como la paternidad y la adolescencia.",
+      "puntuacion": 8,
+      "genero": "comedia",
+      "fecha_estreno": "2000-01-09",
+      "duracion_media_capitulos_minutos": 22,
+      "cantidad_temporadas": 7,
+      "cantidad_capitulos": 151
+    },
+    {
+      "titulo": "Brooklyn Bridge",
+      "sinopsis": "La serie sigue las vidas de una familia judía en Brooklyn durante la década de 1950 mientras enfrentan los desafíos de la vida urbana y los cambios sociales. A lo largo de dos temporadas, la serie explora temas como la familia, la identidad cultural y el crecimiento.",
+      "puntuacion": 7.8,
+      "genero": "drama",
+      "fecha_estreno": "1991-09-20",
+      "duracion_media_capitulos_minutos": 45,
+      "cantidad_temporadas": 2,
+      "cantidad_capitulos": 34
+    },
+    {
+      "titulo": "30 Rock",
+      "sinopsis": "La serie sigue las vidas del equipo detrás de un programa de comedia en un canal de televisión ficticio. A lo largo de siete temporadas, la serie combina comedia y sátira para explorar el mundo del entretenimiento y los medios de comunicación.",
+      "puntuacion": 8.2,
+      "genero": "comedia",
+      "fecha_estreno": "2006-10-11",
+      "duracion_media_capitulos_minutos": 22,
+      "cantidad_temporadas": 7,
+      "cantidad_capitulos": 138
+    },
+    {
+      "titulo": "Unbreakable Kimmy Schmidt",
+      "sinopsis": "La serie sigue la vida de Kimmy Schmidt, una mujer que reconstruye su vida en Nueva York después de ser rescatada de un culto apocalíptico. A lo largo de cuatro temporadas, la serie combina comedia y optimismo para explorar temas como la resiliencia y la búsqueda de la felicidad.",
+      "puntuacion": 7.6,
+      "genero": "comedia",
+      "fecha_estreno": "2015-03-06",
+      "duracion_media_capitulos_minutos": 25,
+      "cantidad_temporadas": 4,
+      "cantidad_capitulos": 52
+    },
+    {
+      "titulo": "Prison Break",
+      "sinopsis": "La serie sigue a Michael Scofield, un ingeniero estructural que se hace encarcelar en la misma prisión que su hermano, un hombre condenado a muerte injustamente. Su objetivo es ayudar a su hermano a escapar de la cárcel. A lo largo de cinco temporadas, la serie explora temas de justicia, lealtad y supervivencia.",
+      "puntuacion": 8.3,
+      "genero": "drama",
+      "fecha_estreno": "2005-08-29",
+      "duracion_media_capitulos_minutos": 45,
+      "cantidad_temporadas": 5,
+      "cantidad_capitulos": 90
+    },
+    {
+      "titulo": "Rick and Morty",
+      "sinopsis": "La serie sigue las aventuras de Rick Sanchez, un científico alcohólico y excéntrico, y su nieto Morty Smith, mientras viajan a través del espacio, el tiempo y dimensiones alternativas. A lo largo de cinco temporadas, la serie combina humor negro, sátira y elementos de ciencia ficción para explorar temas existenciales y absurdos.",
+      "puntuacion": 9.2,
+      "genero": "comedia, ciencia ficción",
+      "fecha_estreno": "2013-12-02",
+      "duracion_media_capitulos_minutos": 22,
+      "cantidad_temporadas": 5,
+      "cantidad_capitulos": 51
+    },
+    {
+      "titulo": "Mas hallá del jardin",
+      "sinopsis": "Dos hermanos se pierden en la noche y deben trabajar juntos para conseguir encontrar el camino",
+      "puntuacion": 9.2,
+      "genero": "animacion",
+      "fecha_estreno": "2010-12-02",
+      "duracion_media_capitulos_minutos": 10,
+      "cantidad_temporadas": 1,
+      "cantidad_capitulos": 7
+    }
+  ]
+}
+
+
+
+

@@ -1,0 +1,824 @@
+{
+  "peliculaList": [
+    {
+      "titulo": "12 Años de Esclavitud",
+      "sinopsis": "Basada en una historia real, un hombre afroamericano libre del norte es secuestrado y vendido como esclavo en el sur durante doce años antes de obtener su libertad.",
+      "puntuacion": 8.1,
+      "genero": "drama",
+      "fecha_estreno": "2013-12-20",
+      "duracion": "02:14:00"
+    },
+    {
+      "titulo": "1917",
+      "sinopsis": "Durante la Primera Guerra Mundial, dos soldados británicos reciben la orden de entregar un mensaje urgente que podría salvar a 1,600 hombres.",
+      "puntuacion": 8.3,
+      "genero": "drama",
+      "fecha_estreno": "2019-12-25",
+      "duracion": "01:59:00"
+    },
+    {
+      "titulo": "Antes del Atardecer",
+      "sinopsis": "Nueve años después de su encuentro en Viena, Jesse y Céline se reencuentran y pasan una tarde juntos en París.",
+      "puntuacion": 8.3,
+      "genero": "drama",
+      "fecha_estreno": "2004-06-28",
+      "duracion": "01:20:00"
+    },
+    {
+      "titulo": "Avatar",
+      "sinopsis": "Un marine parapléjico enviado a la luna Pandora en una misión única se debate entre seguir sus órdenes y proteger el mundo que siente como su hogar.",
+      "puntuacion": 7.8,
+      "genero": "fantasia",
+      "fecha_estreno": "2009-12-18",
+      "duracion": "02:42:00"
+    },
+    {
+      "titulo": "Avengers: Endgame",
+      "sinopsis": "Los Vengadores se reúnen una vez más para revertir las acciones de Thanos y restaurar el orden en el universo, enfrentándose a su mayor desafío hasta el momento.",
+      "puntuacion": 8.4,
+      "genero": "accion",
+      "fecha_estreno": "2019-04-26",
+      "duracion": "03:02:00"
+    },
+    {
+      "titulo": "Avengers: Infinity War",
+      "sinopsis": "Los Vengadores y sus aliados deben estar dispuestos a sacrificar todo en un intento por derrotar al poderoso Thanos antes de que su oleada de devastación y ruina ponga fin al universo.",
+      "puntuacion": 8.4,
+      "genero": "accion",
+      "fecha_estreno": "2018-04-27",
+      "duracion": "02:29:00"
+    },
+    {
+      "titulo": "Bastardos sin Gloria",
+      "sinopsis": "En Francia ocupada por los nazis durante la Segunda Guerra Mundial, un plan para asesinar a líderes nazis por un grupo de soldados judíos estadounidenses coincide con los planes de venganza de un propietario de teatro.",
+      "puntuacion": 8.3,
+      "genero": "accion",
+      "fecha_estreno": "2009-08-21",
+      "duracion": "02:33:00"
+    },
+    {
+      "titulo": "Birdman",
+      "sinopsis": "Un ex actor de superhéroes intenta recuperar su carrera teatral mientras lucha con su ego y su vida personal en la víspera de la noche de apertura de una nueva obra de Broadway.",
+      "puntuacion": 8.1,
+      "genero": "drama",
+      "fecha_estreno": "2015-01-22",
+      "duracion": "01:59:00"
+    },
+    {
+      "titulo": "Buenos muchachos",
+      "sinopsis": "La verdadera historia de Henry Hill, un gánster de Brooklyn que pasa de una vida en el crimen a testificar contra sus compañeros de la mafia y entrar en el programa de protección de testigos.",
+      "puntuacion": 8.9,
+      "genero": "drama",
+      "fecha_estreno": "1990-09-14",
+      "duracion": "02:26:00"
+    },
+    {
+      "titulo": "Cadena Perpetua",
+      "sinopsis": "Dos hombres encarcelados se unen a lo largo de varios años, encontrando consuelo y eventual redención a través de actos de decencia común.",
+      "puntuacion": 9.3,
+      "genero": "drama",
+      "fecha_estreno": "1994-10-14",
+      "duracion": "02:22:00"
+    },
+    {
+      "titulo": "Capitán América: El primer vengador",
+      "sinopsis": "Durante la Segunda Guerra Mundial, Steve Rogers se somete a un experimento que lo convierte en el super soldado conocido como Capitán América, y lucha contra la organización malvada Hydra liderada por Red Skull.",
+      "puntuacion": 8,
+      "genero": "accion",
+      "fecha_estreno": "2011-07-15",
+      "duracion": "02:04:00"
+    },
+    {
+      "titulo": "Código de Honor",
+      "sinopsis": "Un ex soldado de las Fuerzas Especiales intenta limpiar su nombre y desmantelar la operación terrorista que lo incriminó.",
+      "puntuacion": 8.9,
+      "genero": "accion",
+      "fecha_estreno": "2026-08-14",
+      "duracion": "02:20:00"
+    },
+    {
+      "titulo": "Django sin Cadenas",
+      "sinopsis": "Con la ayuda de un cazarrecompensas alemán, un esclavo liberado se embarca en la misión de rescatar a su esposa de un brutal propietario de plantaciones en Mississippi.",
+      "puntuacion": 8.4,
+      "genero": "drama",
+      "fecha_estreno": "2012-12-25",
+      "duracion": "02:45:00"
+    },
+    {
+      "titulo": "Duna",
+      "sinopsis": "La historia de Paul Atreides, un joven dotado que nace en un mundo oscuro y cambia el destino de su pueblo.",
+      "puntuacion": 8.6,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2022-09-09",
+      "duracion": "02:35:00"
+    },
+    {
+      "titulo": "El Caballero Oscuro",
+      "sinopsis": "Cuando la amenaza conocida como El Joker emerge de su pasado misterioso, causa estragos y caos en la gente de Gotham.",
+      "puntuacion": 9,
+      "genero": "accion",
+      "fecha_estreno": "2008-07-18",
+      "duracion": "02:32:00"
+    },
+    {
+      "titulo": "El Caballero Oscuro Renace",
+      "sinopsis": "Ocho años después del reinado de anarquía del Joker, Batman, con la ayuda de la enigmática Catwoman, se ve obligado a abandonar su exilio para salvar la ciudad de Gotham de la brutal guerrilla terrorista Bane.",
+      "puntuacion": 8.4,
+      "genero": "accion",
+      "fecha_estreno": "2012-07-20",
+      "duracion": "02:44:00"
+    },
+    {
+      "titulo": "El Club de la Pelea",
+      "sinopsis": "Un trabajador de oficina insomne y un fabricante de jabón desenfadado forman un club de lucha clandestino que evoluciona hacia algo mucho, mucho más.",
+      "puntuacion": 8.8,
+      "genero": "drama",
+      "fecha_estreno": "1999-10-15",
+      "duracion": "02:19:00"
+    },
+    {
+      "titulo": "El Club de los Cinco",
+      "sinopsis": "Cinco adolescentes de diferentes grupos sociales se encuentran en detención en la escuela secundaria, donde confrontan sus diferencias y descubren que tienen más en común de lo que pensaban.",
+      "puntuacion": 7.9,
+      "genero": "comedia",
+      "fecha_estreno": "1985-02-15",
+      "duracion": "01:37:00"
+    },
+    {
+      "titulo": "El Curioso Caso de Benjamin Button",
+      "sinopsis": "Nacido en sus ochentas y retrocediendo en el tiempo, un hombre vive una vida poco convencional mientras experimenta los placeres y dolores de envejecer al revés.",
+      "puntuacion": 7.9,
+      "genero": "drama",
+      "fecha_estreno": "2008-10-09",
+      "duracion": "02:46:00"
+    },
+    {
+      "titulo": "El Código Da Vinci",
+      "sinopsis": "Un investigador y una criptógrafa francesa siguen las pistas de una sociedad secreta para resolver el misterio del Santo Grial.",
+      "puntuacion": 8.5,
+      "genero": "aventura",
+      "fecha_estreno": "2006-06-09",
+      "duracion": "02:29:00"
+    },
+    {
+      "titulo": "El Discurso del Rey",
+      "sinopsis": "La historia real del rey Jorge VI de Inglaterra, quien, con la ayuda de un terapeuta del habla poco convencional, supera su tartamudez para dirigir a su nación durante tiempos de crisis.",
+      "puntuacion": 8,
+      "genero": "drama",
+      "fecha_estreno": "2010-12-24",
+      "duracion": "01:58:00"
+    },
+    {
+      "titulo": "El Gran Hotel Budapest",
+      "sinopsis": "Un escritor se encuentra con el dueño de un antiguo hotel de alta clase, quien le cuenta sus primeros años sirviendo como botones en los gloriosos años del hotel bajo un conserje excepcional.",
+      "puntuacion": 8.1,
+      "genero": "comedia",
+      "fecha_estreno": "2014-03-28",
+      "duracion": "01:39:00"
+    },
+    {
+      "titulo": "El Gran Lebowski",
+      "sinopsis": "Un holgazán llamado 'El Nota' se ve envuelto en una serie de situaciones absurdas después de que lo confundan con un millonario con el mismo nombre.",
+      "puntuacion": 8.1,
+      "genero": "comedia",
+      "fecha_estreno": "1998-03-06",
+      "duracion": "01:57:00"
+    },
+    {
+      "titulo": "El Gran Truco",
+      "sinopsis": "Después de un trágico accidente, dos magos de escenario se embarcan en una batalla para crear la última ilusión, sacrificando todo lo que tienen para superarse mutuamente.",
+      "puntuacion": 8.5,
+      "genero": "drama",
+      "fecha_estreno": "2006-10-20",
+      "duracion": "02:10:00"
+    },
+    {
+      "titulo": "El Hobbit: La desolación de Smaug",
+      "sinopsis": "Bilbo Bolsón, Gandalf y un grupo de enanos continúan su búsqueda para recuperar Erebor del dragón Smaug mientras enfrentan diversos peligros en su camino.",
+      "puntuacion": 8.1,
+      "genero": "aventura",
+      "fecha_estreno": "2013-12-20",
+      "duracion": "02:41:00"
+    },
+    {
+      "titulo": "El Laberinto del Fauno",
+      "sinopsis": "En la España de posguerra, una niña encuentra refugio en su propia imaginación mientras enfrenta la brutalidad de su padrastro, el capitán del ejército franquista.",
+      "puntuacion": 8.2,
+      "genero": "drama",
+      "fecha_estreno": "2006-05-27",
+      "duracion": "01:58:00"
+    },
+    {
+      "titulo": "El Lobo de Wall Street",
+      "sinopsis": "Basado en la verdadera historia de Jordan Belfort, desde su ascenso a un corredor de bolsa adinerado que vive la gran vida hasta su caída involucrando crimen, corrupción y el gobierno federal.",
+      "puntuacion": 8.2,
+      "genero": "comedia",
+      "fecha_estreno": "2013-12-25",
+      "duracion": "03:00:00"
+    },
+    {
+      "titulo": "El Padrino",
+      "sinopsis": "El patriarca envejecido de una dinastía del crimen organizado transfiere el control de su imperio clandestino a su hijo reacio.",
+      "puntuacion": 9.2,
+      "genero": "drama",
+      "fecha_estreno": "1972-03-24",
+      "duracion": "02:55:00"
+    },
+    {
+      "titulo": "El Padrino: Parte II",
+      "sinopsis": "La vida temprana y la carrera de Vito Corleone en la Nueva York de la década de 1920 es retratada, mientras que su hijo, Michael, amplía y afianza su control sobre el sindicato del crimen familiar.",
+      "puntuacion": 9,
+      "genero": "drama",
+      "fecha_estreno": "1974-12-20",
+      "duracion": "03:22:00"
+    },
+    {
+      "titulo": "El Padrino: Parte III",
+      "sinopsis": "Sigue a Michael Corleone, ahora en sus 60 años, mientras busca liberar a su familia del crimen y encontrar un sucesor adecuado para su imperio.",
+      "puntuacion": 7.6,
+      "genero": "drama",
+      "fecha_estreno": "1990-12-25",
+      "duracion": "02:42:00"
+    },
+    {
+      "titulo": "El Profesional (León)",
+      "sinopsis": "Mathilda, una niña de 12 años, es llevada a regañadientes por Léon, un asesino profesional, después de que su familia es asesinada. Léon y Mathilda forman una relación inusual, ya que ella se convierte en su protegida y aprende el oficio del asesino.",
+      "puntuacion": 8.5,
+      "genero": "accion",
+      "fecha_estreno": "1994-11-18",
+      "duracion": "02:13:00"
+    },
+    {
+      "titulo": "El Renacido",
+      "sinopsis": "Un hombre de frontera en una expedición de comercio de pieles en la década de 1820 lucha por sobrevivir después de ser atacado por un oso y dejado por muerto por miembros de su propio equipo de caza.",
+      "puntuacion": 8,
+      "genero": "aventura",
+      "fecha_estreno": "2015-12-25",
+      "duracion": "02:36:00"
+    },
+    {
+      "titulo": "El Resplandor",
+      "sinopsis": "Una familia se dirige a un hotel aislado para el invierno donde una presencia siniestra influencia al padre hacia la violencia, mientras que su hijo psíquico ve horribles premoniciones tanto del pasado como del futuro.",
+      "puntuacion": 8.4,
+      "genero": "terror",
+      "fecha_estreno": "1980-05-23",
+      "duracion": "02:26:00"
+    },
+    {
+      "titulo": "El Rey León",
+      "sinopsis": "El príncipe león Simba y su padre son el objetivo de su amargo tío, quien quiere ascender al trono él mismo.",
+      "puntuacion": 8.5,
+      "genero": "animacion",
+      "fecha_estreno": "1994-06-24",
+      "duracion": "01:28:00"
+    },
+    {
+      "titulo": "El Secreto de Sus Ojos",
+      "sinopsis": "Un agente judicial retirado reflexiona sobre un caso de violación y asesinato sin resolver que lo obsesionó durante décadas.",
+      "puntuacion": 8.2,
+      "genero": "drama",
+      "fecha_estreno": "2009-08-13",
+      "duracion": "02:09:00"
+    },
+    {
+      "titulo": "El Sexto Sentido",
+      "sinopsis": "Un niño que se comunica con espíritus busca la ayuda de un desalentado psicólogo infantil.",
+      "puntuacion": 8.1,
+      "genero": "drama",
+      "fecha_estreno": "1999-08-06",
+      "duracion": "01:47:00"
+    },
+    {
+      "titulo": "El Señor de los Anillos: El Retorno del Rey",
+      "sinopsis": "Gandalf y Aragorn lideran el Mundo de los Hombres contra el ejército de Sauron para desviar su mirada de Frodo y Sam mientras se acercan al Monte del Destino con el Anillo Único.",
+      "puntuacion": 8.9,
+      "genero": "fantasia",
+      "fecha_estreno": "2003-12-17",
+      "duracion": "03:21:00"
+    },
+    {
+      "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+      "sinopsis": "Un tímido hobbit de la Comarca y ocho compañeros emprenden un viaje para destruir el poderoso Anillo Único y salvar la Tierra Media del Señor Oscuro Sauron. En el camino, se unen a una comunidad de extrañas criaturas y personajes.",
+      "puntuacion": 8.8,
+      "genero": "fantasia",
+      "fecha_estreno": "2001-12-19",
+      "duracion": "02:58:00"
+    },
+    {
+      "titulo": "El Señor de los Anillos: Las Dos Torres",
+      "sinopsis": "Mientras Frodo y Sam se acercan a Mordor con la ayuda del astuto Gollum, la comunidad dividida hace frente al nuevo aliado de Sauron, Saruman, y sus hordas de Isengard.",
+      "puntuacion": 8.7,
+      "genero": "fantasia",
+      "fecha_estreno": "2002-12-18",
+      "duracion": "02:59:00"
+    },
+    {
+      "titulo": "El Show de Truman",
+      "sinopsis": "Un vendedor de seguros descubre que toda su vida es en realidad un programa de televisión de realidad.",
+      "puntuacion": 8.1,
+      "genero": "drama",
+      "fecha_estreno": "1998-06-05",
+      "duracion": "01:43:00"
+    },
+    {
+      "titulo": "El Silencio de los Corderos",
+      "sinopsis": "Una joven cadete del FBI debe recibir la ayuda de un asesino caníbal encarcelado y manipulador para ayudar a capturar a otro asesino en serie, un loco que desuella a sus víctimas.",
+      "puntuacion": 8.6,
+      "genero": "terror",
+      "fecha_estreno": "1991-02-14",
+      "duracion": "01:58:00"
+    },
+    {
+      "titulo": "El Viaje de Chihiro",
+      "sinopsis": "Una niña se adentra en un mundo mágico poblado por criaturas extrañas y se embarca en una búsqueda para salvar a sus padres y regresar al mundo humano.",
+      "puntuacion": 8.6,
+      "genero": "animacion",
+      "fecha_estreno": "2001-07-20",
+      "duracion": "02:05:00"
+    },
+    {
+      "titulo": "En Busca de la Felicidad",
+      "sinopsis": "Un vendedor con problemas se hace cargo de su hijo cuando está a punto de comenzar una carrera profesional que cambiará su vida.",
+      "puntuacion": 8,
+      "genero": "drama",
+      "fecha_estreno": "2006-12-15",
+      "duracion": "01:57:00"
+    },
+    {
+      "titulo": "En Busca del Arca Perdida",
+      "sinopsis": "En 1936, el arqueólogo y aventurero Indiana Jones es contratado por el gobierno de los Estados Unidos para encontrar el Arca de la Alianza antes de que los nazis de Adolf Hitler puedan obtener sus poderes impresionantes.",
+      "puntuacion": 8.4,
+      "genero": "aventura",
+      "fecha_estreno": "1981-06-12",
+      "duracion": "01:55:00"
+    },
+    {
+      "titulo": "Erase Una Vez en Hollywood",
+      "sinopsis": "Un actor de televisión y su doble se embarcan en una odisea para hacerse un nombre en la industria del cine durante los tumultuosos tiempos de la industria cinematográfica de Hollywood en 1969 Los Ángeles.",
+      "puntuacion": 7.6,
+      "genero": "comedia",
+      "fecha_estreno": "2019-07-26",
+      "duracion": "02:41:00"
+    },
+    {
+      "titulo": "Eterno Resplandor de una Mente sin Recuerdos",
+      "sinopsis": "Cuando su relación se vuelve amarga, una pareja se somete a un procedimiento médico para borrarse el uno al otro de la memoria.",
+      "puntuacion": 8.3,
+      "genero": "drama",
+      "fecha_estreno": "2004-03-19",
+      "duracion": "01:48:00"
+    },
+    {
+      "titulo": "Expiación",
+      "sinopsis": "Después de acusar falsamente a un joven amante de un crimen que no cometió, una niña intenta redimirse a lo largo de los años mientras reflexiona sobre el impacto devastador de sus acciones.",
+      "puntuacion": 8.1,
+      "genero": "drama",
+      "fecha_estreno": "2007-12-25",
+      "duracion": "02:03:00"
+    },
+    {
+      "titulo": "Ford v Ferrari",
+      "sinopsis": "Durante la década de 1960, el ingeniero de automóviles Carroll Shelby y su conductor británico Ken Miles luchan contra las interferencias corporativas, las leyes de la física y sus propios demonios personales para construir un coche de carreras revolucionario para Ford Motor Company y enfrentarse a los coches dominantes de Enzo Ferrari en las 24 Horas de Le Mans en Francia en 1966.",
+      "puntuacion": 8.1,
+      "genero": "drama",
+      "fecha_estreno": "2019-11-15",
+      "duracion": "02:32:00"
+    },
+    {
+      "titulo": "Forrest Gump",
+      "sinopsis": "Las presidencias de Kennedy y Johnson, la Guerra de Vietnam, el escándalo de Watergate y otros eventos históricos se desarrollan desde la perspectiva de un hombre de Alabama con un coeficiente intelectual de 75, cuyo único deseo es reunirse con su amor de la infancia.",
+      "puntuacion": 8.8,
+      "genero": "drama",
+      "fecha_estreno": "1994-07-06",
+      "duracion": "02:22:00"
+    },
+    {
+      "titulo": "Gladiador",
+      "sinopsis": "Un antiguo general romano se propone vengarse del corrupto emperador que asesinó a su familia y lo envió a la esclavitud.",
+      "puntuacion": 8.5,
+      "genero": "accion",
+      "fecha_estreno": "2000-05-05",
+      "duracion": "02:35:00"
+    },
+    {
+      "titulo": "Guardians of the Galaxy",
+      "sinopsis": "Un grupo de inadaptados intergalácticos, incluido un ladrón, dos asesinos, una asesina cibernética y un mapache genéticamente modificado, se unen para proteger una poderosa gema del infinito de caer en manos equivocadas.",
+      "puntuacion": 7.7,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2014-07-25",
+      "duracion": "02:01:00"
+    },
+    {
+      "titulo": "Harry Potter y la piedra filosofal",
+      "sinopsis": "Un niño huérfano descubre que es un mago y es enviado a estudiar a la escuela Hogwarts de Magia y Hechicería, donde descubre un mundo de magia y misterio.",
+      "puntuacion": 7.8,
+      "genero": "aventura",
+      "fecha_estreno": "2000-11-22",
+      "duracion": "02:32:00"
+    },
+    {
+      "titulo": "Infiltrados",
+      "sinopsis": "Un policía encubierto y una rata en la policía intentan identificarse mutuamente mientras se infiltran en una banda irlandesa en el sur de Boston.",
+      "puntuacion": 8.5,
+      "genero": "drama",
+      "fecha_estreno": "2006-10-06",
+      "duracion": "02:31:00"
+    },
+    {
+      "titulo": "Interestelar",
+      "sinopsis": "Un equipo de exploradores viaja a través de un agujero de gusano en el espacio en un intento de garantizar la supervivencia de la humanidad.",
+      "puntuacion": 8.6,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2014-11-07",
+      "duracion": "02:49:00"
+    },
+    {
+      "titulo": "Into the Wild",
+      "sinopsis": "Un joven graduado universitario abandona la civilización y emprende un viaje hacia el desierto de Alaska en busca de una vida más simple.",
+      "puntuacion": 8.1,
+      "genero": "drama",
+      "fecha_estreno": "2007-09-12",
+      "duracion": "02:28:00"
+    },
+    {
+      "titulo": "Intocable",
+      "sinopsis": "Después de quedar cuadripléjico en un accidente de parapente, un aristócrata contrata a un joven de los proyectos para que sea su cuidador.",
+      "puntuacion": 8.5,
+      "genero": "comedia",
+      "fecha_estreno": "2011-11-02",
+      "duracion": "01:52:00"
+    },
+    {
+      "titulo": "Jojo Rabbit",
+      "sinopsis": "Un niño en la Alemania nazi descubre que su madre está ocultando a una niña judía en su ático, lo que desafía su visión del mundo mientras lucha con su lealtad a su país y su amistad imaginaria con Adolf Hitler.",
+      "puntuacion": 7.9,
+      "genero": "comedia",
+      "fecha_estreno": "2019-10-18",
+      "duracion": "01:48:00"
+    },
+    {
+      "titulo": "Joker",
+      "sinopsis": "Un retrato de Arthur Fleck, un hombre ignorado por la sociedad, cuya búsqueda de propósito lo lleva por el sendero de la locura y se convierte en un criminal psicópata conocido como Joker.",
+      "puntuacion": 8.4,
+      "genero": "drama",
+      "fecha_estreno": "2019-10-04",
+      "duracion": "02:02:00"
+    },
+    {
+      "titulo": "Knives Out",
+      "sinopsis": "Un detective investiga la muerte de un patriarca adinerado y excéntrico, sólo para descubrir que toda la familia es sospechosa.",
+      "puntuacion": 7.9,
+      "genero": "drama",
+      "fecha_estreno": "2019-11-27",
+      "duracion": "02:10:00"
+    },
+    {
+      "titulo": "La Chica del Tren",
+      "sinopsis": "Rachel Watson se encuentra atrapada en una espiral de mentiras y engaños mientras intenta descubrir la verdad detrás de la desaparición de una mujer.",
+      "puntuacion": 8.3,
+      "genero": "drama",
+      "fecha_estreno": "2027-05-20",
+      "duracion": "01:52:00"
+    },
+    {
+      "titulo": "La La Land",
+      "sinopsis": "Un pianista de jazz y una aspirante a actriz se enamoran mientras luchan por alcanzar sus sueños en Los Ángeles.",
+      "puntuacion": 8.3,
+      "genero": "drama",
+      "fecha_estreno": "2016-12-09",
+      "duracion": "02:08:00"
+    },
+    {
+      "titulo": "La Lista de Schindler",
+      "sinopsis": "En la Polonia ocupada por los alemanes durante la Segunda Guerra Mundial, el industrial Oskar Schindler se preocupa gradualmente por su fuerza laboral judía después de presenciar su persecución por los nazis.",
+      "puntuacion": 8.9,
+      "genero": "drama",
+      "fecha_estreno": "1994-12-15",
+      "duracion": "03:15:00"
+    },
+    {
+      "titulo": "La Naranja Mecánica",
+      "sinopsis": "En un futuro distópico, un violento delincuente es sometido a un programa de rehabilitación experimental que tiene como objetivo reducir su propensión a la violencia.",
+      "puntuacion": 8.3,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "1971-12-19",
+      "duracion": "02:16:00"
+    },
+    {
+      "titulo": "La Red Social",
+      "sinopsis": "Mientras el estudiante de Harvard Mark Zuckerberg crea el sitio de redes sociales que se conocería como Facebook, es demandado por los gemelos que afirmaban que les robó su idea y por el cofundador al que luego excluyeron del negocio.",
+      "puntuacion": 7.7,
+      "genero": "drama",
+      "fecha_estreno": "2010-10-01",
+      "duracion": "02:00:00"
+    },
+    {
+      "titulo": "La Vida es Bella",
+      "sinopsis": "Durante el Holocausto, un padre utiliza su ingenio y su humor para proteger a su hijo de los horrores del campo de concentración al hacerle creer que todo es parte de un elaborado juego.",
+      "puntuacion": 8.6,
+      "genero": "comedia",
+      "fecha_estreno": "1997-12-20",
+      "duracion": "01:56:00"
+    },
+    {
+      "titulo": "Locamente Millonarios",
+      "sinopsis": "Una mujer neoyorquina se encuentra con la familia de su novio mientras viajan a Singapur para asistir a la boda de su mejor amigo.",
+      "puntuacion": 8.7,
+      "genero": "comedia",
+      "fecha_estreno": "2025-01-31",
+      "duracion": "02:00:00"
+    },
+    {
+      "titulo": "Los Increíbles",
+      "sinopsis": "Una familia de superhéroes encubiertos, mientras intenta llevar una vida suburbana tranquila, se ve obligada a actuar para salvar al mundo.",
+      "puntuacion": 8,
+      "genero": "animacion",
+      "fecha_estreno": "2004-11-05",
+      "duracion": "01:55:00"
+    },
+    {
+      "titulo": "Los Sospechosos de Siempre",
+      "sinopsis": "Un único superviviente relata los acontecimientos retorcidos que llevaron a una horrible batalla a tiros en un barco, que comenzó cuando cinco criminales se encontraron en una rueda de reconocimiento policial aparentemente aleatoria.",
+      "puntuacion": 8.5,
+      "genero": "drama",
+      "fecha_estreno": "1995-09-15",
+      "duracion": "01:46:00"
+    },
+    {
+      "titulo": "Los Vengadores",
+      "sinopsis": "Los héroes más poderosos de la Tierra deben unirse y aprender a luchar como un equipo si quieren detener al travieso Loki y a su ejército alienígena de esclavizar a la humanidad.",
+      "puntuacion": 8,
+      "genero": "accion",
+      "fecha_estreno": "2012-05-04",
+      "duracion": "02:23:00"
+    },
+    {
+      "titulo": "Matrix",
+      "sinopsis": "Un pirata informático aprende de misteriosos rebeldes sobre la verdadera naturaleza de su realidad y su papel en la guerra contra sus controladores.",
+      "puntuacion": 8.7,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "1999-03-31",
+      "duracion": "02:16:00"
+    },
+    {
+      "titulo": "Milagro en la Celda 7",
+      "sinopsis": "Las vidas de los guardias en el corredor de la muerte se ven afectadas por uno de sus prisioneros: un hombre negro acusado de asesinato infantil y violación, pero que tiene un don misterioso.",
+      "puntuacion": 8.6,
+      "genero": "drama",
+      "fecha_estreno": "1999-12-10",
+      "duracion": "03:09:00"
+    },
+    {
+      "titulo": "No Country for Old Men",
+      "sinopsis": "Un cazador tropieza con una bolsa de dinero y se encuentra perseguido por un despiadado asesino en una lucha por la supervivencia en el desolado paisaje de Texas.",
+      "puntuacion": 8.1,
+      "genero": "drama",
+      "fecha_estreno": "2007-09-21",
+      "duracion": "02:02:00"
+    },
+    {
+      "titulo": "Noche de Juegos",
+      "sinopsis": "Un grupo de amigos se reúne regularmente para una noche de juegos, pero esta vez se encuentran atrapados en un misterio de asesinato de la vida real.",
+      "puntuacion": 8.8,
+      "genero": "terror",
+      "fecha_estreno": "2024-04-05",
+      "duracion": "01:58:00"
+    },
+    {
+      "titulo": "Nomadland",
+      "sinopsis": "Tras el colapso económico de una ciudad en la zona rural de Nevada, Fern (Frances McDormand) toma su camioneta y se convierte en una nómada, explorando una vida fuera de la sociedad convencional como nómada moderno.",
+      "puntuacion": 8.2,
+      "genero": "drama",
+      "fecha_estreno": "2020-12-25",
+      "duracion": "01:47:00"
+    },
+    {
+      "titulo": "Origen",
+      "sinopsis": "Un ladrón que roba secretos corporativos a través del uso de tecnología para compartir sueños recibe la tarea inversa de plantar una idea en la mente de un CEO.",
+      "puntuacion": 8.8,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2010-07-16",
+      "duracion": "02:28:00"
+    },
+    {
+      "titulo": "Parque Jurásico",
+      "sinopsis": "Durante una visita de preestreno, un parque temático sufre un gran fallo de energía que permite que sus exhibiciones de dinosaurios clonados se descontrolen.",
+      "puntuacion": 8.1,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "1993-06-11",
+      "duracion": "02:07:00"
+    },
+    {
+      "titulo": "Parásitos",
+      "sinopsis": "Una familia desempleada se infiltra en la vida de otra familia adinerada, pero su fácil existencia se complica cuando su oscuro secreto es revelado.",
+      "puntuacion": 8.5,
+      "genero": "drama",
+      "fecha_estreno": "2019-11-22",
+      "duracion": "02:12:00"
+    },
+    {
+      "titulo": "Perdida",
+      "sinopsis": "Con la desaparición de su esposa convirtiéndose en el foco de un intenso circo mediático, un hombre ve cómo se posa sobre él el foco de atención cuando se sospecha que puede que no sea inocente.",
+      "puntuacion": 8.1,
+      "genero": "drama",
+      "fecha_estreno": "2014-10-03",
+      "duracion": "02:29:00"
+    },
+    {
+      "titulo": "Piratas del Caribe: La maldición del Perla Negra",
+      "sinopsis": "Un excéntrico pirata, Jack Sparrow, se une a una joven forastera y al hijo de un pirata para detener a una tripulación de piratas inmortales que tienen la intención de rescatar a su líder y desencadenar una maldición.",
+      "puntuacion": 8.6,
+      "genero": "aventura",
+      "fecha_estreno": "2003-05-15",
+      "duracion": "02:23:00"
+    },
+    {
+      "titulo": "Pirates of the Caribbean: At World's End",
+      "sinopsis": "El Capitán Jack Sparrow, Will Turner y Elizabeth Swann deben navegar a través de aguas traicioneras, enfrentarse a una poderosa armada y unir a las criaturas míticas para derrotar al malvado Lord Cutler Beckett y su armada.",
+      "puntuacion": 7.9,
+      "genero": "aventura",
+      "fecha_estreno": "2007-05-25",
+      "duracion": "02:49:00"
+    },
+    {
+      "titulo": "Pulp Fiction",
+      "sinopsis": "Las vidas de dos sicarios de la mafia, un boxeador, un gánster y su esposa, y un par de ladrones de diner se entrelazan en cuatro relatos de violencia y redención.",
+      "puntuacion": 8.9,
+      "genero": "drama",
+      "fecha_estreno": "1994-10-14",
+      "duracion": "02:34:00"
+    },
+    {
+      "titulo": "Regreso al Futuro",
+      "sinopsis": "Un adolescente es transportado accidentalmente a los años 50 en el DeLorean modificado de su amigo, donde debe asegurarse de que sus padres se conozcan para garantizar su propia existencia.",
+      "puntuacion": 8.5,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "1985-07-03",
+      "duracion": "01:56:00"
+    },
+    {
+      "titulo": "Rocketman",
+      "sinopsis": "La historia épica de la vida de Elton John, desde sus años de formación como prodigio en el Royal Academy of Music hasta su influyente y perdurable asociación con Bernie Taupin.",
+      "puntuacion": 7.3,
+      "genero": "drama",
+      "fecha_estreno": "2019-05-31",
+      "duracion": "02:01:00"
+    },
+    {
+      "titulo": "Salvar al Soldado Ryan",
+      "sinopsis": "Después del Desembarco de Normandía, un grupo de soldados estadounidenses va tras las líneas enemigas para recuperar a un paracaidista cuyos hermanos han sido asesinados en accion.",
+      "puntuacion": 8.6,
+      "genero": "drama",
+      "fecha_estreno": "1998-07-24",
+      "duracion": "02:49:00"
+    },
+    {
+      "titulo": "Seven",
+      "sinopsis": "Dos detectives, un novato y un veterano, persiguen a un asesino en serie que usa los siete pecados capitales como sus motivos.",
+      "puntuacion": 8.6,
+      "genero": "drama",
+      "fecha_estreno": "1995-09-22",
+      "duracion": "02:07:00"
+    },
+    {
+      "titulo": "Slumdog Millionaire",
+      "sinopsis": "Un joven indio sin educación participa en la versión india de ¿Quién quiere ser millonario? y sorprendentemente responde correctamente a todas las preguntas, lo que lo lleva a ser interrogado por la policía.",
+      "puntuacion": 9,
+      "genero": "drama",
+      "fecha_estreno": "2008-12-10",
+      "duracion": "02:00:00"
+    },
+    {
+      "titulo": "Spider-Man",
+      "sinopsis": "Un estudiante tímido adquiere habilidades arácnidas después de ser mordido por una araña genéticamente modificada y decide usar sus nuevas habilidades para luchar contra el crimen como Spider-Man.",
+      "puntuacion": 7.6,
+      "genero": "aventura",
+      "fecha_estreno": "2002-05-03",
+      "duracion": "02:01:00"
+    },
+    {
+      "titulo": "Spider-Man: Into the Spider-Verse",
+      "sinopsis": "Un adolescente de Brooklyn llamado Miles Morales se convierte en el Spider-Man de su realidad, pero pronto descubre que hay otros Spider-Men de diferentes realidades que también existen y deben unirse para detener una amenaza que podría destruir todas las realidades.",
+      "puntuacion": 7.9,
+      "genero": "animacion",
+      "fecha_estreno": "2018-12-14",
+      "duracion": "01:57:00"
+    },
+    {
+      "titulo": "Star Wars: El Despertar de la Fuerza",
+      "sinopsis": "Una nueva generación de héroes se une a las leyendas de la Resistencia para enfrentarse a la Primera Orden y a un nuevo malvado en busca del legendario Jedi Luke Skywalker.",
+      "puntuacion": 8,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2015-12-18",
+      "duracion": "02:18:00"
+    },
+    {
+      "titulo": "Star Wars: Episodio IV - Una nueva esperanza",
+      "sinopsis": "Un granjero, un contrabandista y un caballero Jedi se unen para rescatar a una princesa y enfrentarse al malvado Imperio Galáctico.",
+      "puntuacion": 8.6,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "1977-05-25",
+      "duracion": "02:01:00"
+    },
+    {
+      "titulo": "Star Wars: The Last Jedi",
+      "sinopsis": "La Resistencia lucha contra la Primera Orden mientras Rey busca el entrenamiento del legendario Luke Skywalker, pero él está reacio a aceptar su papel como maestro Jedi.",
+      "puntuacion": 8.1,
+      "genero": "accion",
+      "fecha_estreno": "2017-12-20",
+      "duracion": "02:32:00"
+    },
+    {
+      "titulo": "Superbad",
+      "sinopsis": "Dos amigos inseparables intentan comprar alcohol para una fiesta, lo que los lleva a una serie de desventuras hilarantes.",
+      "puntuacion": 8.5,
+      "genero": "comedia",
+      "fecha_estreno": "2030-03-28",
+      "duracion": "01:53:00"
+    },
+    {
+      "titulo": "Terminator",
+      "sinopsis": "Un soldado humano es enviado desde 2029 hasta 1984 para detener a una máquina de matar cibernética casi indestructible, enviada desde el mismo año, que ha sido programada para ejecutar a una joven cuyo hijo no nacido es la clave de la futura salvación de la humanidad.",
+      "puntuacion": 8,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "1984-10-26",
+      "duracion": "01:47:00"
+    },
+    {
+      "titulo": "The Green Mile",
+      "sinopsis": "El guardia de la prisión Paul Edgecomb se da cuenta de que el nuevo prisionero John Coffey posee un don misterioso que desafía la realidad misma.",
+      "puntuacion": 8.4,
+      "genero": "drama",
+      "fecha_estreno": "2023-07-14",
+      "duracion": "03:09:00"
+    },
+    {
+      "titulo": "The Shawshank Redemption",
+      "sinopsis": "Dos hombres encarcelados se unen a lo largo de varios años, encontrando consuelo y eventual redención a través de actos de decencia común.",
+      "puntuacion": 9.3,
+      "genero": "drama",
+      "fecha_estreno": "1994-09-23",
+      "duracion": "02:22:00"
+    },
+    {
+      "titulo": "Titanic",
+      "sinopsis": "Un aristócrata de diecisiete años se enamora de un amable pero pobre artista a bordo del lujoso y fatídico R.M.S. Titanic.",
+      "puntuacion": 7.8,
+      "genero": "drama",
+      "fecha_estreno": "1997-12-19",
+      "duracion": "03:14:00"
+    },
+    {
+      "titulo": "Toy Story",
+      "sinopsis": "Un muñeco vaquero se siente profundamente amenazado y celoso cuando un nuevo figurín espacial lo reemplaza como el juguete principal en la habitación de un niño.",
+      "puntuacion": 8.3,
+      "genero": "animacion",
+      "fecha_estreno": "1995-11-22",
+      "duracion": "01:21:00"
+    },
+    {
+      "titulo": "Transformers",
+      "sinopsis": "Los Autobots, liderados por Optimus Prime, se enfrentan a los malvados Decepticons en una batalla por el destino de la Tierra.",
+      "puntuacion": 7.8,
+      "genero": "ciencia ficcion",
+      "fecha_estreno": "2007-06-15",
+      "duracion": "02:23:00"
+    },
+    {
+      "titulo": "Uno de los Nuestros",
+      "sinopsis": "La historia de Henry Hill y su vida en la mafia, cubriendo su relación con su esposa Karen Hill y sus compañeros de mafia Jimmy Conway y Tommy DeVito en el sindicato del crimen italoamericano.",
+      "puntuacion": 8.7,
+      "genero": "drama",
+      "fecha_estreno": "1990-09-21",
+      "duracion": "02:26:00"
+    },
+    {
+      "titulo": "Up",
+      "sinopsis": "Un viudo de edad avanzada, Carl Fredricksen, cumple su sueño de la infancia de volar su casa a través de miles de globos para viajar a América del Sur. Sin embargo, pronto descubre que un niño scout inadvertido se ha colado en el viaje.",
+      "puntuacion": 8.3,
+      "genero": "animacion",
+      "fecha_estreno": "2009-07-31",
+      "duracion": "01:36:00"
+    },
+    {
+      "titulo": "Zodiac",
+      "sinopsis": "Basada en hechos reales, esta película sigue la historia de un grupo de detectives y periodistas que intentan capturar al asesino en serie conocido como el Asesino del Zodiaco, que aterrorizó el área de la Bahía de San Francisco en la década de 1960 y 1970.",
+      "puntuacion": 7.7,
+      "genero": "accion",
+      "fecha_estreno": "2007-03-02",
+      "duracion": "02:37:00"
+    },
+    {
+      "titulo": "Batman",
+      "sinopsis": "El caballero de la noche salva a Gotham",
+      "puntuacion": 8.0,
+      "genero": "superheroes",
+      "fecha_estreno": "2023-03-02",
+      "duracion": "02:57:00"
+    }
+  ]
+}
+
+
+
+
